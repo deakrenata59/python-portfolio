@@ -4,6 +4,9 @@
 A program leszimulálja az áramkörbeli erőforrások lefoglalását és felszabadítását a JSON fájlban megadott topológia, kapacitások
 és igények alapján.
 
+## Áramkör tolológiája
+![Screenshot](topology.png)
+
 ## projekt részei
 + client.py:
   - A kliens feladata, hogy a kapott json fájl alapján leszimulálja megfelelő sorrendben a lefoglalásokat és felszabadításokat. A JSONben adottak
